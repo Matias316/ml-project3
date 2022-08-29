@@ -16,6 +16,7 @@ debugpy==1.6.3
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
+et-xmlfile==1.1.0
 executing==0.10.0
 fastjsonschema==2.16.1
 fonttools==4.37.1
@@ -49,6 +50,7 @@ nest-asyncio==1.5.5
 notebook==6.4.12
 notebook-shim==0.1.0
 numpy==1.23.2
+openpyxl==3.0.10
 packaging==21.3
 pandas==1.4.3
 pandocfilters==1.5.0
